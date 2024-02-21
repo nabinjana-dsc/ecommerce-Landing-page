@@ -1,3 +1,4 @@
+`#0969DA`
 # eCommerce-Landing-page
 E-commerce-Landing-page using tailwind
 https://nabinjana-dsc.github.io/ecommerce-Landing-page/
